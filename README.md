@@ -26,7 +26,6 @@ Clone the repository:
 
    ```bash
    git clone https://github.com/yourusername/EQL-Document-Classifier.git
-   cd EQL-Document-Classifier
    ```
 ## Usage
 1. Machine Learning Classifier Model,
